@@ -1,5 +1,0 @@
-CR300
-RuntimeError: CUDA error: an illegal memory access was encountered
-
-CR400
-RuntimeError: CUDA error: an illegal memory access was encountered

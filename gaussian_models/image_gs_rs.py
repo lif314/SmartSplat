@@ -5,7 +5,6 @@ import numpy as np
 import math
 from gsplat.project_gaussians_2d_scale_rot import project_gaussians_2d_scale_rot
 from gsplat.rasterize_sum import rasterize_gaussians_sum
-import cv2
 from typing import Tuple, Optional
 from fused_ssim import fused_ssim
 
